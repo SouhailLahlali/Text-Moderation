@@ -39,8 +39,9 @@ A Python application that detects toxicity in text and classifies it as **SFW (S
    ```bash
    pip install -r requirements.txt
    ```
-
 5. **Run the Application**
    ```bash
    streamlit run app.py
    ```
+
+Enjoy testing, but remember… bad words alert! 👀😄
